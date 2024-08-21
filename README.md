@@ -1,4 +1,4 @@
-![](https://github.com/cdeldon/thermography/blob/master/docs/source/_static/logo.png?raw=true "Thermography Logo")
+
 
 Branch|Linux|Windows|
 :----:|:----:|:----:|
